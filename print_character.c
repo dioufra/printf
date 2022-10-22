@@ -9,7 +9,6 @@
 
 int print_chr(va_list args)
 {
-    /* iterate though arguments */
     char c = (char)va_arg(args, int);
 
     int count = 0;
