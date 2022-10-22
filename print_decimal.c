@@ -3,7 +3,6 @@
 /**
  * print_decimal - prints a given integer from variadic parameters to base 10
  * @args: variadic parameter
- *
  * Return: number of characters printed on Success
  */
 
