@@ -13,7 +13,7 @@ int (*get_specifier(const char *format))(va_list)
 	int i;
 
 	func_t array[] = {
-		{"c", print_charcter},
+		{"c", print_character},
 		{"s", print_string},
 		{"%", print_percentage},
 		{"i", print_integer},
