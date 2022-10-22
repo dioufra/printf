@@ -3,9 +3,7 @@
 /**
  * get_specifier - chek for valid specifier and
  * call th appropriate function for printing
- *
  * @format: format
- *
  * Return: If success return a pointer to a function
  * Else, return NULL
  */
