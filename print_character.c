@@ -1,9 +1,8 @@
 #include "main.h"
 
 /**
- * print_character - print characters to stdout *
+ * print_character - prints characters to stdout *
  * @args: variadic arguments
- *
  * Return: Number of character printed
  */
 
