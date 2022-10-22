@@ -28,3 +28,5 @@ typedef struct func
 	int (*f)(va_list);
 
 } func_t;
+
+#endif
