@@ -3,7 +3,6 @@
 /**
  * print_int - prints a given integer from variadic parameters
  * @args: variadic parameter
- *
  * Return: number of characters printed on Success
  */
 
