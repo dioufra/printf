@@ -2,9 +2,7 @@
 
 /**
  * print_percent - print character '%' to stdout
- *
  * @args: variadic parameters
- *
  * Return: Number of character printed
  */
 
