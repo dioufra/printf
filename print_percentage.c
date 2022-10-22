@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * print_percent - print character '%' to stdout
+ * print_percentage - print character '%' to stdout
  * @args: variadic parameters
  * Return: Number of character printed
  */
 
-int print_percent(va_list args)
+int print_percentage(va_list args)
 {
 	(void)args;
 
