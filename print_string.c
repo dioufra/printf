@@ -2,10 +2,9 @@
 
 /**
  * print_str - prints a variadic string each per time to stdout
- * @args: variadic parameter
- *
+ * @args: variadic parameters
  * Return: number of characters printed on Success
- * upon failure -1
+ * if failure -1
  */
 
 int print_str(va_list args)
