@@ -2,7 +2,7 @@
 
 /**
  * print_int - prints a given integer from variadic parameters
- * @args: variadic parameter
+ * @args: variadic parameters
  * Return: number of characters printed on Success
  */
 
@@ -25,7 +25,6 @@ int print_int(va_list args)
 			break;
 		i++;
 	}
-
 	for (i; i >= 0; i--)
 	{
 		x[0] = ('0' + my_arr[i]);
