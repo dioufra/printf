@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * print_int - prints a given integer from variadic parameters
+ * print_integer - prints a given integer from variadic parameters
  * @args: variadic parameters
  * Return: number of characters printed on Success
  */
 
-int print_int(va_list args)
+int print_integer(va_list args)
 {
 	int i = 0;
 	int count = 0;
